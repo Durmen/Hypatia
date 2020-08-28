@@ -1,0 +1,16 @@
+body{
+    background-color: black;
+    color: white;
+    font-family: calibri;
+}
+
+
+#img-caption{
+    width: 400px;
+  }
+  
+  #image{
+    width:auto;
+    height:100%;
+    display:block;
+  }
